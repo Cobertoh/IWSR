@@ -10,10 +10,10 @@ An all-in-one speedrun tool for Call of Duty: Infinite Warfare Zombies.
 - Card loadouts
 - Animated camos
 - Frame cap up to 240 fps
-- Unlock all (nothing is saved to your account)
+- Unlock all
 - Special characters for every map
 - Map restart key
-- One-click start
+
 
 ## Install
 
